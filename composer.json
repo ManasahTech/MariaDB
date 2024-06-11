@@ -19,6 +19,7 @@
         }
     ],
     "require": {
-        "manasahtech/data": "^1.0"
+        "manasahtech/data": "^1.0",
+        "manasahtech/container": "^1.0"
     }
 }
