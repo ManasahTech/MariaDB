@@ -148,3 +148,5 @@ class MariaDB implements DatabaseDriver
         }
     }
 }
+
+// just to notify the packagist.org
