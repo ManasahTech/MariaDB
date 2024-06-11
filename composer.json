@@ -1,0 +1,24 @@
+{
+    "name": "manasahtech/mariadb",
+    "description": "The ManasahTech MariaDB package is a concrete implementation of the ManasahTech/Data package which is specifically designed for use with the MariaDB database driver.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Manasahtech\\Data\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RuyahTech, SLLC",
+            "email": "manasahtech@ruyahtech.com"
+        },
+        {
+            "name": "Abdullah Sowailem",
+            "email": "abdullah.sowailem@gmail.com"
+        }
+    ],
+    "require": {
+        "manasahtech/data": "^1.0"
+    }
+}
